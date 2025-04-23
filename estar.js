@@ -1,3 +1,5 @@
+// kann man wenn man den letzten Aufruf kennt, alles sofort beenden?
+
 async function bruteForceCheckboxAnswers() {
     const checkboxes = document.querySelectorAll('.inputCheckbox');
     const total = checkboxes.length;
